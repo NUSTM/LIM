@@ -6,6 +6,7 @@ Currently, each file in the dataset contains **ten samples**, evenly split betwe
 - **5 samples labeled as `0` (non-bankrupt instances)**, representing companies not facing financial distress.
 - **5 samples labeled as `1` (bankrupt instances)**, representing companies experiencing financial distress.
 
+**The complete dataset will be fully released after the publication of the related research article. **
 
 ## Data Description
 
