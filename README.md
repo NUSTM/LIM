@@ -1,6 +1,10 @@
 # Bankruptcy Prediction Dataset
 
-This repository contains two benchmark datasets for corporate bankruptcy prediction, sourced from the Management Discussion and Analysis (MDA) sections of annual reports for publicly listed companies in the U.S. and China. These datasets are designed to facilitate reproducible research and model comparisons in the domain of financial distress prediction. Currently, each file in the dataset contains **ten samples** as a demonstration. The complete dataset will be fully released after the publication of the related research article. 
+This repository contains two benchmark datasets for corporate bankruptcy prediction, sourced from the Management Discussion and Analysis (MDA) sections of annual reports for publicly listed companies in the U.S. and China. These datasets are designed to facilitate reproducible research and model comparisons in the domain of financial distress prediction. 
+
+Currently, each file in the dataset contains **ten samples**, evenly split between the two classes:
+- **5 samples labeled as `0` (non-bankrupt instances)**, representing companies not facing financial distress.
+- **5 samples labeled as `1` (bankrupt instances)**, representing companies experiencing financial distress.
 
 
 ## Data Description
