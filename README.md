@@ -1,4 +1,4 @@
-# Bankruptcy Prediction Dataset
+# Bankruptcy Prediction Dataset Based on Annual Reports
 
 This repository contains two benchmark datasets for corporate bankruptcy prediction, sourced from the Management Discussion and Analysis (MDA) sections of annual reports for publicly listed companies in the U.S. and China. These datasets are designed to facilitate reproducible research and model comparisons in the domain of financial distress prediction. 
 
